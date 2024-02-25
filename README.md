@@ -1,4 +1,4 @@
-<h2> Hi, I'm Juan! <img src="https://flat-icons.com/downloads/animated-animal-icon-set/" width="50"></h2>
+<h2> Hi, I'm Juan! <img src="direct-image-url" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Physicist at <a href="http://www.uco.es">University of Cordoba</a><img src="https://giphy.com/embed/bFtVSjEcF1hQyCIoUi" width="30"></br>Future Meteorologist at <a href="https://www.uu.se/">Uppsala University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
