@@ -1,5 +1,5 @@
 <h2> Hi, I'm Juan! <img src="https://flat-icons.com/downloads/animated-animal-icon-set/" width="50"></h2>
-<img align='right' src="[https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif](https://avatars.githubusercontent.com/u/121160472?v=4)" width="230">
+<img align='right' src="[[https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif](https://avatars.githubusercontent.com/u/121160472?v=4)](https://avatars.githubusercontent.com/u/121160472?v=4)" width="230">
 <p><em>Physicist at <a href="http://www.uco.es">University of Cordoba</a><img src="http://bigblueboo.tumblr.com/post/82894694534/bohr-ing" width="30"></br>Future Meteorologist at <a href="https://www.uu.se/">Uppsala University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
