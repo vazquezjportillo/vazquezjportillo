@@ -6,6 +6,7 @@
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-vazquezjportillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vazquezjportillo/)](https://www.linkedin.com/in/vazquezjportillo/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/vazquezjportillo?label=follow&style=social)](https://github.com/vazquezjportillo)
 
+<iframe src="https://giphy.com/embed/bFtVSjEcF1hQyCIoUi" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/nubyusa-space-nuby-nubybaby-bFtVSjEcF1hQyCIoUi">via GIPHY</a></p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...  
 
