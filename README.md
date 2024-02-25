@@ -10,7 +10,7 @@
 
 ```javascript
 const Sweden/Spain = {
-  interests: "Atmospheric Physics" | "Large-Scale Atmospheric and Ocean Circulation"
+  interests: "Atmospheric Physics" | "Large-Scale Atmospheric and Ocean Circulation" 
   code: [Python, R, Matlab, Octave],
   tools: [LaTeX, Git, RStudio, VScode, Photoshop, Illustrator, SolidWorks],
 }
