@@ -7,7 +7,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/vazquezjportillo?label=follow&style=social)](https://github.com/vazquezjportillo)
 
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGd1aDhqNG13NzA4OW82dzN1M2JpMGVncHEyYmw0Y3I0Y2NyZG9kZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lnsTFyT6wUzItXsUV5/giphy.gif" width="50"></h2> About me...  
+</h2> About me...  
 
 ```javascript
 const Sweden/Spain = {
